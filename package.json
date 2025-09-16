@@ -1,0 +1,21 @@
+{
+  "name": "soft-pastel-dark-theme",
+  "displayName": "soft pastel dark theme",
+  "description": "a soft pastel dark theme to reduce eye strain and carefully choosen colors suitable for working long hours and address a weird issue i.e. for me too much color popping and contrast makes my eye really uncomfortable",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "soft pastel dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soft pastel dark theme-color-theme.json"
+      }
+    ]
+  }
+}
