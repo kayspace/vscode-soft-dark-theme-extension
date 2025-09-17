@@ -1,16 +1,113 @@
-# soft-pastel-dark-theme README
+# Soft dark theme - Kay
 
-## Working with Markdown
+A **custom VS Code theme** built for **comfort, consistency, and aesthetics**.  
+This isn’t just another theme with random flashy colors — it’s carefully designed to reduce eye strain, remove harsh contrasts, and bring **harmony across syntax highlighting and the entire VS Code UI**.  
+>*I personally tested it in full day condition and at the night, and it is very easy on my eyes and I didn't felt overwhelmed with the colors and contrasts, u may feel the colors are a bit odd, i.e. because they are choosen to blend well with each other and not to compromise aesthetics too*
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+##  Why This Exists
 
-## For more information
+I got tired of themes that either:  
+- Use **neon bright colors** that burn your eyes, or  
+- Mix random **contrasting colors** that don’t blend together.  
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+So I created my own.  
+This theme is about:  
+- **Softer dark background** (`#1B1B1B`) that isn’t pitch black.  
+- **Muted syntax colors** that separate tags, attributes, strings, keywords, and variables without clashing.  
+- **Consistent UI theming** — from tabs and dropdowns to settings and extension badges.  
 
-**Enjoy!**
+The result → **coding feels calm and comfortable**, even after hours.
+
+---
+
+## Features
+
+### Editor
+- Background: `#1B1B1B`  (soft black)
+- Foreground: `#b8d8bab1` (soft neutral grey)  
+- Cursor: `#EED49F` (muted yellow, not neon)  
+- Selection: `#323541` (bluish-grey)  
+- Line highlight: `#242424`  
+
+### Syntax Highlighting
+- Tags → `#a6c8ff99` (soft sky blue)  
+- Attributes → `#ffd58074` (warm amber)  
+- Strings → `#a7d8a4` (sage green)  
+- Keywords → `#c0a5e6` (lavender)  
+- Functions → `#9ab7f7` (muted sky blue)  
+- Constants & Numbers → `#e0a888` (beige-orange)  
+- Comments → `#5C5C5C` italic grey  
+
+### Workbench / UI
+- Sidebar, tabs, and panels **blend with editor background**  
+- Buttons & badges recolored (no default neon blue)  
+- Inputs, dropdowns, and search borders match theme  
+- Scrollbars softened (no ugly borders)  
+- Status bar & activity bar **integrated into the dark palette**  
+
+---
+
+## How the Theme looks
+
+### Editor
+![Editor Screenshot](/images/editor.png)
+
+### HTML / CSS / JS
+![HTML Screenshot](/images/html.png)  
+![CSS Screenshot](/images/css.png)  
+![JS Screenshot](/images/js.png)  
+
+### Settings & Search
+![Settings Screenshot](/images/settings.png)
+
+### Extensions
+![Extensions Screenshot](/images/extensions.png)
+
+---
+
+##  Installation
+
+1. Open VS Code.  
+2. Go to **Extensions** → **Install from VSIX...** (if you’ve packaged this) or copy the theme folder into:  
+3. Open **Command Palette** → `Preferences: Color Theme` → Select **[Theme Name (will update it)]**.  
+4. Done 
+
+---
+
+##  Customization
+
+You can tweak the theme easily:  
+
+- **Editor colors** → change values under `"editor.*"`  
+- **Syntax colors** → adjust `"tokenColors"` for tags, strings, keywords, etc.  
+- **UI colors** → use `"workbench.colorCustomizations"` for dropdowns, buttons, badges, borders  
+
+Tip: After editing, reload the theme to see changes instantly.
+
+---
+
+## Notes
+
+- Works with **all major languages** (HTML, CSS, JS, TS, JSON, Markdown, etc.)  
+- Fallback syntax color ensures nothing looks unstyled.  
+- Designed for **long coding sessions** without eye fatigue.  
+- Matches **UI + syntax** in one consistent palette.  
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Kay Space** - [GitHub Profile](https://github.com/kayspace)
+
+## Credits
+
+Built with patience, testing, and the desire to **make VS Code feel truly workable and that doesn't feel overwhelming with all the random colors popping to the eye**.  
+You’re free to fork, tweak, or use it as your base.
+
+
