@@ -51,28 +51,41 @@ The result → **coding feels calm and comfortable**, even after hours.
 
 ## How the Theme looks
 
-### Editor
-![Editor Screenshot](/images/editor.png)
+### HTML / CSS 
+![CSS Screenshot](/images/html_css.png)  
 
-### HTML / CSS / JS
-![HTML Screenshot](/images/html.png)  
-![CSS Screenshot](/images/css.png)  
+### JavaScript
 ![JS Screenshot](/images/js.png)  
+
+### React
+![React Screenshot](/images/react.png)  
+
+### Markdown
+![Markdown Screenshot](/images/markdown.png)  
 
 ### Settings & Search
 ![Settings Screenshot](/images/settings.png)
 
-### Extensions
-![Extensions Screenshot](/images/extensions.png)
+### Extension
+![Extensions Screenshot](/images/extension.png)
+
+### Editor
+![Editor Screenshot](/images/editor.png)
 
 ---
 
-##  Installation
+## Install / Marketplace Link
 
-1. Open VS Code.  
-2. Go to **Extensions** → **Install from VSIX...** (if you’ve packaged this) or copy the theme folder into:  
-3. Open **Command Palette** → `Preferences: Color Theme` → Select **[Theme Name (will update it)]**.  
-4. Done 
+- You can directly install the theme from the VS Code Marketplace:
+- [**Soft Dark Theme on Marketplace**](https://marketplace.visualstudio.com/items?itemName=kayspace.soft-dark-theme)
+
+Or in your vscode
+
+- Open VS Code.
+- Go to **Extensions** → Search for **Soft Dark Theme** OR install from [soft dark theme](https://marketplace.visualstudio.com/items?itemName=kayspace.soft-dark-theme).
+--Open **Command Palette** → `Preferences: Color Theme` → Select **Soft Dark Theme**.
+
+
 
 ---
 
@@ -103,11 +116,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Kay Space** - [GitHub Profile](https://github.com/kayspace)
+**kayspace** - [GitHub Profile](https://github.com/kayspace)  
 
 ## Credits
 
 Built with patience, testing, and the desire to **make VS Code feel truly workable and that doesn't feel overwhelming with all the random colors popping to the eye**.  
 You’re free to fork, tweak, or use it as your base.
+
+>*If you really like the theme and if it was really useful to you in solving your theme problems, you can [spare me a star ✪](https://github.com/kayspace/vscode-soft-dark-theme-extension) hehe!*
 
 
