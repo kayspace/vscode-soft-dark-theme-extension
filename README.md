@@ -67,7 +67,7 @@ The result → **coding feels calm and comfortable**, even after hours.
 ![Settings Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/settings.png)
 
 ### Extension
-![Extensions Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/extension.png)
+![Extensions Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/extensionimg.png)
 
 ### Editor
 ![Editor Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/editor.png)
