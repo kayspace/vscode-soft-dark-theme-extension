@@ -97,9 +97,13 @@ Tip: After editing, reload the theme to see changes instantly.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
 ## Author
 
 **kayspace** - [GitHub Profile](https://github.com/kayspace)  
+
+---
 
 ## Credits
 
