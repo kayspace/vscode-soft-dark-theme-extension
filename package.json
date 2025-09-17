@@ -2,7 +2,7 @@
   "name": "soft-dark-theme",
   "displayName": "soft  dark theme",
   "description": "a soft  dark theme to reduce eye strain and carefully choosen colors suitable for working long hours and address a weird issue i.e. for me too much color popping and contrast makes my eye really uncomfortable",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "kayspace",
   "engines": {
     "vscode": "^1.60.0"
