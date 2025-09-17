@@ -1,4 +1,4 @@
-# Soft dark theme - Kay
+# Soft dark theme extension for Vscode
 
 A **custom VS Code theme** built for **comfort, consistency, and aesthetics**.  
 This isn’t just another theme with random flashy colors — it’s carefully designed to reduce eye strain, remove harsh contrasts, and bring **harmony across syntax highlighting and the entire VS Code UI**.  
