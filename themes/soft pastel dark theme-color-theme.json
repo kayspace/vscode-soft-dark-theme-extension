@@ -12,7 +12,6 @@
     "editorLineNumber.activeForeground": "#DDB892",
     "editorGroupHeader.tabsBackground": "#1B1B1B",
 
-
     //Menu
     "menu.background": "#1B1B1B",
     "menu.foreground": "#b8d8bab1",
@@ -53,7 +52,6 @@
     "titleBar.inactiveBackground": "#181818",
     "titleBar.inactiveForeground": "#888888",
 
-
     "pickerGroup.background": "1B1B1B",
     "pickerGroup.foreground": "#b8d8bab1", // text of group labels in dropdowns
     "quickInput.background": "#1B1B1B", // background of quick open input box
@@ -63,7 +61,7 @@
     "quickInputList.focusForeground": "#CBA6F7", // text when item focused
     "quickInputList.focusHighlightForeground": "#EED49F", // highlighted text in focused item
 
-		// For dropdowns / comboboxes
+    // For dropdowns / comboboxes
     "dropdown.background": "#1B1B1B",
     "dropdown.foreground": "#b8d8bab1",
     "dropdown.border": "#2A2A2A",
@@ -84,10 +82,11 @@
     "badge.foreground": "#1B1B1B", // badge text color
     "list.hoverBackground": "#242424", // hover in any list
     "list.hoverForeground": "#a7d8a4", // text when hovered
-    "list.activeSelectionBackground": "#1B1B1B",
-    "list.activeSelectionForeground": "#EED49F",
+    "list.activeSelectionBackground": "#242424",
+    "list.activeSelectionForeground": "#a7d8a4",
+    "list.inactiveSelectionBackground": "#242424",
     "list.focusBackground": "#1B1B1B",
-    "list.focusForeground": "#EED49F",
+    "list.focusForeground": "#a7d8a4",
 
     "button.background": "#b8d8bab1", // primary button background
     "button.foreground": "#1B1B1B", // text color on buttons
@@ -110,10 +109,7 @@
     "scrollbar.shadow": "#1B1B1B", // removes the subtle shadow around scrollbar
     "scrollbarSlider.background": "#0000006b", // the slider itself
     "scrollbarSlider.hoverBackground": "#32354180", // keep same as background, no hover border
-    "scrollbarSlider.activeBackground": "#32354180", // keep flat when dragging
-
-    
-
+    "scrollbarSlider.activeBackground": "#32354180" // keep flat when dragging
   },
 
   "tokenColors": [

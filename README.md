@@ -52,25 +52,25 @@ The result → **coding feels calm and comfortable**, even after hours.
 ## How the Theme looks
 
 ### HTML / CSS 
-![CSS Screenshot](/images/html_css.png)  
+![CSS Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/html_css.png)  
 
 ### JavaScript
-![JS Screenshot](/images/js.png)  
+![JS Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/js.png)  
 
 ### React
-![React Screenshot](/images/react.png)  
+![React Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/react.png)  
 
 ### Markdown
-![Markdown Screenshot](/images/markdown.png)  
+![Markdown Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/markdown.png)  
 
 ### Settings & Search
-![Settings Screenshot](/images/settings.png)
+![Settings Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/settings.png)
 
 ### Extension
-![Extensions Screenshot](/images/extension.png)
+![Extensions Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/extension.png)
 
 ### Editor
-![Editor Screenshot](/images/editor.png)
+![Editor Screenshot](https://raw.githubusercontent.com/kayspace/vscode-soft-dark-theme-extension/master/images/editor.png)
 
 ---
 
