@@ -12,6 +12,9 @@
     "editorLineNumber.activeForeground": "#DDB892",
     "editorGroupHeader.tabsBackground": "#1B1B1B",
 
+    "terminal.border": "#00000000",
+    "panel.border": "#00000000",
+
     //Menu
     "menu.background": "#1B1B1B",
     "menu.foreground": "#b8d8bab1",
@@ -106,10 +109,14 @@
     "editorGroupHeader.tabsBorder": "#1B1B1B", // border below the tab row
     "tab.border": "#1B1B1B", // border around inactive tabs
 
-    "scrollbar.shadow": "#1B1B1B", // removes the subtle shadow around scrollbar
+    "scrollbar.shadow": "#00000000", // removes the subtle shadow around scrollbar
+    "scrollbarSlider.border": "#00000000",
     "scrollbarSlider.background": "#0000006b", // the slider itself
     "scrollbarSlider.hoverBackground": "#32354180", // keep same as background, no hover border
-    "scrollbarSlider.activeBackground": "#32354180" // keep flat when dragging
+    "scrollbarSlider.activeBackground": "#32354180", // keep flat when dragging
+
+    // overview ruler background itself
+    "editorOverviewRuler.border": "#00000000"
   },
 
   "tokenColors": [
