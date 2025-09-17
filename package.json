@@ -1,14 +1,33 @@
 {
-  "name": "soft-pastel-dark-theme",
-  "displayName": "soft pastel dark theme",
-  "description": "a soft pastel dark theme to reduce eye strain and carefully choosen colors suitable for working long hours and address a weird issue i.e. for me too much color popping and contrast makes my eye really uncomfortable",
+  "name": "soft-dark-theme",
+  "displayName": "soft  dark theme",
+  "description": "a soft  dark theme to reduce eye strain and carefully choosen colors suitable for working long hours and address a weird issue i.e. for me too much color popping and contrast makes my eye really uncomfortable",
   "version": "0.0.1",
+  "publisher": "kayspace",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark theme",
+    "soft dark theme",
+    "soft colors",
+    "pastel",
+    "pastel colors theme",
+    "pastel theme",
+    "low contrast",
+    "eye strain",
+    "coding comfort",
+    "vs code theme",
+    "developer theme"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayspace/vscode-soft-dark-theme-extension?tab=readme-ov-file"
+  },
   "contributes": {
     "themes": [
       {

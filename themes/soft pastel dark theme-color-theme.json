@@ -736,7 +736,7 @@
     "inputOption.activeBorder": "#CBA6F7", // or your theme's accent
     "dropdown.listBackground": "#1C1C1C",
     "list.focusBackground": "#262626",
-    "list.focusForeground": "#b8d8bab1"
+    "list.focusForeground": "#b8d8bab1",
 
     "inputOption.background": "#1B1B1B", // input box background
     "input.foreground": "#b8d8bab1", // input text
