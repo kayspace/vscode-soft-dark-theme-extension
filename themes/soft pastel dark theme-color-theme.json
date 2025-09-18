@@ -116,7 +116,19 @@
     "scrollbarSlider.activeBackground": "#32354180", // keep flat when dragging
 
     // overview ruler background itself
-    "editorOverviewRuler.border": "#00000000"
+    "editorOverviewRuler.border": "#00000000",
+
+    // General link colors (used in Welcome, Settings, etc.)
+    "textLink.foreground": "#89b4fa", // normal link (blue by default)
+    "textLink.activeForeground": "#a7d8a4", // hovered/active link
+
+    // For emphasized text in Welcome page (like headings)
+    "textPreformat.foreground": "#cdd6f4", // inline code/mono text
+    "textBlockQuote.foreground": "#a6adc8", // blockquote text
+
+    // Description / subtle text
+    "textPreformat.background": "#1e1e1e00",
+    "descriptionForeground": "#9ca3af"
   },
 
   "tokenColors": [
