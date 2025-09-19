@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**kayspace** - [GitHub Profile](https://github.com/kayspace)  
+**kayspace** - [GitHub Profile](https://github.com/kayspace) | [Contact](kayzspace@outlook.com) 
 
 ---
 
