@@ -112,4 +112,8 @@ You’re free to fork, tweak, or use it as your base.
 
 >*If you really like the theme and if it was really useful to you in solving your theme problems, you can [spare me a star ✪](https://github.com/kayspace/vscode-soft-dark-theme-extension) hehe!*
 
+>*Also I just wanna give a quick shoutout to my fav theme [poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs) that have been accompanying me so far. It's the only theme that I have used so far and it gave me inspo to build one on my own.*
+
+
+
 
