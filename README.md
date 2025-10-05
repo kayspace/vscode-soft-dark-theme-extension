@@ -2,6 +2,7 @@
 
 A **custom VS Code theme** built for **comfort, consistency, and aesthetics**.  
 This isn’t just another theme with random flashy colors — it’s carefully designed to reduce eye strain, remove harsh contrasts, and bring **harmony across syntax highlighting and the entire VS Code UI**.  
+
 >*I personally tested it in full day condition and at the night, and it is very easy on my eyes and I didn't felt overwhelmed with the colors and contrasts, u may feel the colors are a bit odd, i.e. because they are choosen to blend well with each other and not to compromise aesthetics too*
 
 ---
@@ -114,6 +115,9 @@ You’re free to fork, tweak, or use it as your base.
 
 >*Also I just wanna give a quick shoutout to my fav theme [poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs) that have been accompanying me so far. It's the only theme that I have used so far and it gave me inspo to build one on my own.*
 
+## Disclaimer
+
+I don't have any relevent experience building themes so you may enounter some bugs. If you do, please [open an issue](https://github.com/kayspace/vscode-soft-dark-theme-extension/issues) and I'll try to fix it as soon as possible.
 
 
 
